@@ -10,7 +10,7 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=arps18&&show_icons=true&title_color=ffffff&icon_color=22D2A0&text_color=daf7dc&bg_color=191919">
+<img src="https://github-readme-stats.vercel.app/api?username=arps18&&show_icons=true&title_color=22D2A0&icon_color=22D2A0&text_color=00FF66&bg_color=191919">
 
 <a href="https://github.com/arps18">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arps18&text_color=22D2A0&theme=dark&hide_langs_below=1" />
