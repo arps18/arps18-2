@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on Flutter and Web Dev.
 - 🤔 I’m looking for help with Extensions.
 - 💬 Ask me about OpenSource, Community or Web Development.
-- 📫 How to reach me: arpanp99@gmail.com
+- 📫 How to reach me: arpanp99@gmail.com .
 
 
 
